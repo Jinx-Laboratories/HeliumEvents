@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "heliumevents",
+  "version": "${version}",
+  "name": "heliumevents",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/ender_schesi/heliumevents"
+  },
+  "environment": "client",
+  "mixins": [
+    "heliumevents.mixins.json"
+  ],
+  "depends": {
+    "minecraft": "1.19.3"
+  }
+}
